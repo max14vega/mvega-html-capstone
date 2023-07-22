@@ -1,2 +1,2 @@
-# webdev-projects
-A documentation of my journey learning Web Development
+# mvega-html-capstone
+HTML course capstone project; HTML ONLY online resume!
